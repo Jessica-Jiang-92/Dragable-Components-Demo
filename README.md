@@ -27,6 +27,6 @@ Requires Node.js 6+
 - yarn serve / npm run serve
 - visit http://localhost:8080/
 
-## Others
+## Demo演示
 
 
